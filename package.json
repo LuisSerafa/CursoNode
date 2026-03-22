@@ -1,0 +1,37 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Repositório do Curso de NodeJS da Hcode",
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "homepage": "https://github.com/LuisSerafa/CursoNode#readme",
+  "bugs": {
+    "url": "https://github.com/LuisSerafa/CursoNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisSerafa/CursoNode.git"
+  },
+  "license": "MIT",
+  "author": "Luis Henrique",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "global": "^4.4.0"
+  },
+  "devDependencies": {}
+}
